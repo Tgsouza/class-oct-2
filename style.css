@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    margin: 0 0 0 0;
+}
+
+nav{
+    background-color: orange;
+    position: sticky;
+    top: 10px;
+    width: 100%;
+}
+
+.navbar-icon{
+    width: 150px;
+    height: 150px;
+}
+
+.main-section{
+    text-align: center;
+}
+
